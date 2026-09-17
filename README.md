@@ -65,3 +65,19 @@ SkillExchangeHub/
 │   └── ui.py
 ├── sql/
    └── schema.sql
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Profile
+![Profile](screenshots/profile.png)
+
+### Find Matches
+![Find Matches](screenshots/matches.png)
+
+### Exchange Requests
+![Exchange Requests](screenshots/request.png)
+
+### Chat & Share
+![Chat & Share](screenshots/chat.png)
